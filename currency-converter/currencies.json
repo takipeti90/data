@@ -1,0 +1,2114 @@
+[
+  {
+    "id": 1,
+    "currency": "Afghan Afghani",
+    "symbol": "Af or Afs (pl.)",
+    "isoCode": "AFN",
+    "countries": [
+      "Afghanistan"
+    ],
+    "flag": "AFN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 2,
+    "currency": "Albanian Lek",
+    "symbol": "Lek",
+    "isoCode": "ALL",
+    "countries": [
+      "Albania"
+    ],
+    "flag": "ALL_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 3,
+    "currency": "Algerian Dinar",
+    "symbol": "DA",
+    "isoCode": "DZD",
+    "countries": [
+      "Algeria",
+      "Sahrawi Republic"
+    ],
+    "flag": "DZD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 4,
+    "currency": "Angolan Kwanza",
+    "symbol": "Kz",
+    "isoCode": "AOA",
+    "countries": [
+      "Angola"
+    ],
+    "flag": "AOA_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 5,
+    "currency": "Argentine Peso",
+    "symbol": "$",
+    "isoCode": "ARS",
+    "countries": [
+      "Argentina"
+    ],
+    "flag": "ARS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 6,
+    "currency": "Armenian Dram",
+    "symbol": "֏",
+    "isoCode": "AMD",
+    "countries": [
+      "Armenia",
+      "Artsakh"
+    ],
+    "flag": "AMD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 7,
+    "currency": "Aruban Florin",
+    "symbol": "ƒ",
+    "isoCode": "AWG",
+    "countries": [
+      "Aruba"
+    ],
+    "flag": "AWG_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 1.79,
+    "notes": "Aruban Guilder"
+  },
+  {
+    "id": 8,
+    "currency": "Australian Dollar",
+    "symbol": "$",
+    "isoCode": "AUD",
+    "countries": [
+      "Australia",
+      "Kiribati",
+      "Nauru",
+      "Tuvalu"
+    ],
+    "flag": "AUD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 9,
+    "currency": "Azerbaijani Manat",
+    "symbol": "₼",
+    "isoCode": "AZN",
+    "countries": [
+      "Azerbaijan"
+    ],
+    "flag": "AZN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 10,
+    "currency": "Bahamian Dollar",
+    "symbol": "$",
+    "isoCode": "BSD",
+    "countries": [
+      "Bahamas"
+    ],
+    "flag": "BSD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 11,
+    "currency": "Bahraini Dinar",
+    "symbol": "BD",
+    "isoCode": "BHD",
+    "countries": [
+      "Bahrain"
+    ],
+    "flag": "BHD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 0.376,
+    "notes": null
+  },
+  {
+    "id": 12,
+    "currency": "Bangladeshi Taka",
+    "symbol": "৳",
+    "isoCode": "BDT",
+    "countries": [
+      "Bangladesh"
+    ],
+    "flag": "BDT_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 13,
+    "currency": "Barbadian Dollar",
+    "symbol": "$",
+    "isoCode": "BBD",
+    "countries": [
+      "Barbados"
+    ],
+    "flag": "BBD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 2,
+    "notes": null
+  },
+  {
+    "id": 14,
+    "currency": "Belarusian Ruble",
+    "symbol": "Rbl or Rbls (pl.)",
+    "isoCode": "BYN",
+    "countries": [
+      "Belarus"
+    ],
+    "flag": "BYN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 15,
+    "currency": "Belize Dollar",
+    "symbol": "$",
+    "isoCode": "BZD",
+    "countries": [
+      "Belize"
+    ],
+    "flag": "BZD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 2,
+    "notes": null
+  },
+  {
+    "id": 16,
+    "currency": "Bermudian Dollar",
+    "symbol": "$",
+    "isoCode": "BMD",
+    "countries": [
+      "Bermuda"
+    ],
+    "flag": "BMD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 17,
+    "currency": "Bhutanese Ngultrum",
+    "symbol": "Nu",
+    "isoCode": "BTN",
+    "countries": [
+      "Bhutan"
+    ],
+    "flag": "BTN_flag",
+    "referenceCurrency": "INR",
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 18,
+    "currency": "Bolivian Boliviano",
+    "symbol": "Bs",
+    "isoCode": "BOB",
+    "countries": [
+      "Bolivia"
+    ],
+    "flag": "BOB_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "currency": "Convertible Mark",
+    "symbol": "KM",
+    "isoCode": "BAM",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "flag": "BAM_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 1.95583,
+    "notes": null
+  },
+  {
+    "id": 20,
+    "currency": "Botswana Pula",
+    "symbol": "P",
+    "isoCode": "BWP",
+    "countries": [
+      "Botswana"
+    ],
+    "flag": "BWP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Botswanan Pula"
+  },
+  {
+    "id": 21,
+    "currency": "Brazilian Real",
+    "symbol": "R$",
+    "isoCode": "BRL",
+    "countries": [
+      "Brazil"
+    ],
+    "flag": "BRL_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 22,
+    "currency": "British Pound",
+    "symbol": "£",
+    "isoCode": "GBP",
+    "countries": [
+      "United Kingdom",
+      "Alderney",
+      "Guernsey",
+      "Isle of Man",
+      "Jersey"
+    ],
+    "flag": "GBP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Sterling"
+  },
+  {
+    "id": 23,
+    "currency": "Brunei Dollar",
+    "symbol": "$",
+    "isoCode": "BND",
+    "countries": [
+      "Brunei",
+      "Singapore"
+    ],
+    "flag": "BND_flag",
+    "referenceCurrency": "SGD",
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 24,
+    "currency": "Bulgarian Lev",
+    "symbol": "Lev",
+    "isoCode": "BGN",
+    "countries": [
+      "Bulgaria"
+    ],
+    "flag": "BGN_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 1.95583,
+    "notes": null
+  },
+  {
+    "id": 25,
+    "currency": "Myanmar Kyat",
+    "symbol": "K or Ks (pl.)",
+    "isoCode": "MMK",
+    "countries": [
+      "Myanmar"
+    ],
+    "flag": "MMK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Burmese, Burma"
+  },
+  {
+    "id": 26,
+    "currency": "Burundian Franc",
+    "symbol": "Fr",
+    "isoCode": "BIF",
+    "countries": [
+      "Burundi"
+    ],
+    "flag": "BIF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 27,
+    "currency": "Cambodian Riel",
+    "symbol": "CR",
+    "isoCode": "KHR",
+    "countries": [
+      "Cambodia"
+    ],
+    "flag": "KHR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 28,
+    "currency": "Canadian Dollar",
+    "symbol": "$",
+    "isoCode": "CAD",
+    "countries": [
+      "Canada"
+    ],
+    "flag": "CAD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 29,
+    "currency": "Cape Verdean Escudo",
+    "symbol": "$",
+    "isoCode": "CVE",
+    "countries": [
+      "Cape Verde"
+    ],
+    "flag": "CVE_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 110.265,
+    "notes": "Cabo Verde"
+  },
+  {
+    "id": 30,
+    "currency": "Cayman Islands Dollar",
+    "symbol": "$",
+    "isoCode": "KYD",
+    "countries": [
+      "Cayman Islands"
+    ],
+    "flag": "KYD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 0.83333,
+    "notes": null
+  },
+  {
+    "id": 31,
+    "currency": "Central African CFA Franc",
+    "symbol": "Fr",
+    "isoCode": "XAF",
+    "countries": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon"
+    ],
+    "flag": "XAF_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 655.957,
+    "notes": null
+  },
+  {
+    "id": 32,
+    "currency": "CFP Franc",
+    "symbol": "Fr",
+    "isoCode": "XPF",
+    "countries": [
+      "French Polynesia",
+      "New Caledonia",
+      "Wallis and Futuna"
+    ],
+    "flag": "XPF_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 119.33174,
+    "notes": null
+  },
+  {
+    "id": 33,
+    "currency": "Chilean Peso",
+    "symbol": "$",
+    "isoCode": "CLP",
+    "countries": [
+      "Chile"
+    ],
+    "flag": "CLP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 34,
+    "currency": "Chinese Yuan",
+    "symbol": "¥",
+    "isoCode": "CNY",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "flag": "CNY_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Renminbi"
+  },
+  {
+    "id": 35,
+    "currency": "Colombian Peso",
+    "symbol": "$",
+    "isoCode": "COP",
+    "countries": [
+      "Colombia"
+    ],
+    "flag": "COP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 36,
+    "currency": "Comorian Franc",
+    "symbol": "Fr",
+    "isoCode": "KMF",
+    "countries": [
+      "Comoros"
+    ],
+    "flag": "KMF_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 491.96775,
+    "notes": null
+  },
+  {
+    "id": 37,
+    "currency": "Congolese Franc",
+    "symbol": "Fr",
+    "isoCode": "CDF",
+    "countries": [
+      "Democratic Republic of the Congo"
+    ],
+    "flag": "CDF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 38,
+    "currency": "Costa Rican Colón",
+    "symbol": "₡",
+    "isoCode": "CRC",
+    "countries": [
+      "Costa Rica"
+    ],
+    "flag": "CRC_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 39,
+    "currency": "Cuban Peso",
+    "symbol": "$",
+    "isoCode": "CUP",
+    "countries": [
+      "Cuba"
+    ],
+    "flag": "CUP_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 24,
+    "notes": null
+  },
+  {
+    "id": 40,
+    "currency": "Czech Koruna",
+    "symbol": "Kč",
+    "isoCode": "CZK",
+    "countries": [
+      "Czech Republic"
+    ],
+    "flag": "CZK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 41,
+    "currency": "Danish Krone",
+    "symbol": "kr",
+    "isoCode": "DKK",
+    "countries": [
+      "Denmark",
+      "Faroe Islands",
+      "Greenland"
+    ],
+    "flag": "DKK_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 7.46038,
+    "notes": null
+  },
+  {
+    "id": 42,
+    "currency": "Djiboutian Franc",
+    "symbol": "Fr",
+    "isoCode": "DJF",
+    "countries": [
+      "Djibouti"
+    ],
+    "flag": "DJF_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 177.721,
+    "notes": null
+  },
+  {
+    "id": 43,
+    "currency": "Dominican Peso",
+    "symbol": "$",
+    "isoCode": "DOP",
+    "countries": [
+      "Dominican Republic"
+    ],
+    "flag": "DOP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 44,
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$",
+    "isoCode": "XCD",
+    "countries": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Dominica",
+      "Grenada",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines"
+    ],
+    "flag": "XCD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 2.7,
+    "notes": null
+  },
+  {
+    "id": 45,
+    "currency": "Egyptian Pound",
+    "symbol": "LE",
+    "isoCode": "EGP",
+    "countries": [
+      "Egypt"
+    ],
+    "flag": "EGP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Sterling"
+  },
+  {
+    "id": 46,
+    "currency": "Eritrean Nakfa",
+    "symbol": "Nkf",
+    "isoCode": "ERN",
+    "countries": [
+      "Eritrea"
+    ],
+    "flag": "ERN_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 15,
+    "notes": null
+  },
+  {
+    "id": 47,
+    "currency": "Ethiopian Birr",
+    "symbol": "Br",
+    "isoCode": "ETB",
+    "countries": [
+      "Ethiopia"
+    ],
+    "flag": "ETB_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 48,
+    "currency": "Euro",
+    "symbol": "€",
+    "isoCode": "EUR",
+    "countries": [
+      "Eurozone",
+      "Akrotiri and Dhekelia",
+      "Andorra",
+      "Austria",
+      "Belgium",
+      "Croatia",
+      "Cyprus",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Vatican City"
+    ],
+    "flag": "EUR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 49,
+    "currency": "Falkland Islands Pound",
+    "symbol": "£",
+    "isoCode": "FKP",
+    "countries": [
+      "Falkland Islands"
+    ],
+    "flag": "FKP_flag",
+    "referenceCurrency": "GBP",
+    "referencePerFixedRate": 1,
+    "notes": "Sterling"
+  },
+  {
+    "id": 50,
+    "currency": "Fijian Dollar",
+    "symbol": "$",
+    "isoCode": "FJD",
+    "countries": [
+      "Fiji"
+    ],
+    "flag": "FJD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 51,
+    "currency": "Gambian Dalasi",
+    "symbol": "D",
+    "isoCode": "GMD",
+    "countries": [
+      "Gambia"
+    ],
+    "flag": "GMD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 52,
+    "currency": "Georgian Lari",
+    "symbol": "₾",
+    "isoCode": "GEL",
+    "countries": [
+      "Georgia"
+    ],
+    "flag": "GEL_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 53,
+    "currency": "Ghanaian Cedi",
+    "symbol": "₵",
+    "isoCode": "GHS",
+    "countries": [
+      "Ghana"
+    ],
+    "flag": "GHS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 54,
+    "currency": "Gibraltar Pound",
+    "symbol": "£",
+    "isoCode": "GIP",
+    "countries": [
+      "Gibraltar"
+    ],
+    "flag": "GIP_flag",
+    "referenceCurrency": "GBP",
+    "referencePerFixedRate": 1,
+    "notes": "Sterling"
+  },
+  {
+    "id": 55,
+    "currency": "Guatemalan Quetzal",
+    "symbol": "Q",
+    "isoCode": "GTQ",
+    "countries": [
+      "Guatemala"
+    ],
+    "flag": "GTQ_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 56,
+    "currency": "Guinean Franc",
+    "symbol": "Fr",
+    "isoCode": "GNF",
+    "countries": [
+      "Guinea"
+    ],
+    "flag": "GNF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 57,
+    "currency": "Guyanese Dollar",
+    "symbol": "$",
+    "isoCode": "GYD",
+    "countries": [
+      "Guyana"
+    ],
+    "flag": "GYD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 58,
+    "currency": "Haitian Gourde",
+    "symbol": "G",
+    "isoCode": "HTG",
+    "countries": [
+      "Haiti"
+    ],
+    "flag": "HTG_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 59,
+    "currency": "Honduran Lempira",
+    "symbol": "L",
+    "isoCode": "HNL",
+    "countries": [
+      "Honduras"
+    ],
+    "flag": "HNL_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 60,
+    "currency": "Hong Kong Dollar",
+    "symbol": "$",
+    "isoCode": "HKD",
+    "countries": [
+      "Hong Kong",
+      "Macau"
+    ],
+    "flag": "HKD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 7.8,
+    "notes": null
+  },
+  {
+    "id": 61,
+    "currency": "Hungarian Forint",
+    "symbol": "Ft",
+    "isoCode": "HUF",
+    "countries": [
+      "Hungary"
+    ],
+    "flag": "HUF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 62,
+    "currency": "Icelandic Króna",
+    "symbol": "kr",
+    "isoCode": "ISK",
+    "countries": [
+      "Iceland"
+    ],
+    "flag": "ISK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 63,
+    "currency": "Indian Rupee",
+    "symbol": "₹",
+    "isoCode": "INR",
+    "countries": [
+      "India",
+      "Bhutan"
+    ],
+    "flag": "INR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 64,
+    "currency": "Indonesian Rupiah",
+    "symbol": "Rp",
+    "isoCode": "IDR",
+    "countries": [
+      "Indonesia"
+    ],
+    "flag": "IDR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 65,
+    "currency": "Iranian Rial",
+    "symbol": "Rl or Rls (pl.)",
+    "isoCode": "IRR",
+    "countries": [
+      "Iran"
+    ],
+    "flag": "IRR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 66,
+    "currency": "Iraqi Dinar",
+    "symbol": "ID",
+    "isoCode": "IQD",
+    "countries": [
+      "Iraq"
+    ],
+    "flag": "IQD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 67,
+    "currency": "Israeli Shekel",
+    "symbol": "₪",
+    "isoCode": "ILS",
+    "countries": [
+      "Israel",
+      "Palestine"
+    ],
+    "flag": "ILS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 68,
+    "currency": "Jamaican Dollar",
+    "symbol": "$",
+    "isoCode": "JMD",
+    "countries": [
+      "Jamaica"
+    ],
+    "flag": "JMD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 69,
+    "currency": "Japanese Yen",
+    "symbol": "¥",
+    "isoCode": "JPY",
+    "countries": [
+      "Japan"
+    ],
+    "flag": "JPY_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 70,
+    "currency": "Jordanian Dinar",
+    "symbol": "JD",
+    "isoCode": "JOD",
+    "countries": [
+      "Jordan",
+      "Palestine"
+    ],
+    "flag": "JOD_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 0.709,
+    "notes": null
+  },
+  {
+    "id": 71,
+    "currency": "Kazakhstani Tenge",
+    "symbol": "₸",
+    "isoCode": "KZT",
+    "countries": [
+      "Kazakhstan"
+    ],
+    "flag": "KZT_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 72,
+    "currency": "Kenyan Shilling",
+    "symbol": "Sh or Shs (pl.)",
+    "isoCode": "KES",
+    "countries": [
+      "Kenya"
+    ],
+    "flag": "KES_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 73,
+    "currency": "Kuwaiti Dinar",
+    "symbol": "KD",
+    "isoCode": "KWD",
+    "countries": [
+      "Kuwait"
+    ],
+    "flag": "KWD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 74,
+    "currency": "Kyrgystani Som",
+    "symbol": "som",
+    "isoCode": "KGS",
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "flag": "KGS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 75,
+    "currency": "Laotian Kip",
+    "symbol": "₭",
+    "isoCode": "LAK",
+    "countries": [
+      "Laos"
+    ],
+    "flag": "LAK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 76,
+    "currency": "Lebanese Pound",
+    "symbol": "LL",
+    "isoCode": "LBP",
+    "countries": [
+      "Lebanon"
+    ],
+    "flag": "LBP_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 1507.5,
+    "notes": "Sterling"
+  },
+  {
+    "id": 77,
+    "currency": "Lesotho Loti",
+    "symbol": "L or M (pl.)",
+    "isoCode": "LSL",
+    "countries": [
+      "Lesotho"
+    ],
+    "flag": "LSL_flag",
+    "referenceCurrency": "ZAR",
+    "referencePerFixedRate": 1,
+    "notes": "South African Rand"
+  },
+  {
+    "id": 78,
+    "currency": "Liberian Dollar",
+    "symbol": "$",
+    "isoCode": "LRD",
+    "countries": [
+      "Liberia"
+    ],
+    "flag": "LRD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 79,
+    "currency": "Libyan Dinar",
+    "symbol": "LD",
+    "isoCode": "LYD",
+    "countries": [
+      "Libya"
+    ],
+    "flag": "LYD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 80,
+    "currency": "Macanese Pataca",
+    "symbol": "MOP$",
+    "isoCode": "MOP",
+    "countries": [
+      "Macau"
+    ],
+    "flag": "MOP_flag",
+    "referenceCurrency": "HKD",
+    "referencePerFixedRate": 1.03,
+    "notes": null
+  },
+  {
+    "id": 81,
+    "currency": "Macedonian Denar",
+    "symbol": "DEN",
+    "isoCode": "MKD",
+    "countries": [
+      "North Macedonia"
+    ],
+    "flag": "MKD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 82,
+    "currency": "Malagasy Ariary",
+    "symbol": "Ar",
+    "isoCode": "MGA",
+    "countries": [
+      "Madagascar"
+    ],
+    "flag": "MGA_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 83,
+    "currency": "Malawian Kwacha",
+    "symbol": "K",
+    "isoCode": "MWK",
+    "countries": [
+      "Malawi"
+    ],
+    "flag": "MWK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 84,
+    "currency": "Malaysian Ringgit",
+    "symbol": "RM",
+    "isoCode": "MYR",
+    "countries": [
+      "Malaysia"
+    ],
+    "flag": "MYR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 85,
+    "currency": "Maldivian Rufiyaa",
+    "symbol": "Rf",
+    "isoCode": "MVR",
+    "countries": [
+      "Maldives"
+    ],
+    "flag": "MVR_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": [
+      10.28,
+      15.42
+    ],
+    "notes": null
+  },
+  {
+    "id": 86,
+    "currency": "Mauritanian Ouguiya",
+    "symbol": "UM",
+    "isoCode": "MRU",
+    "countries": [
+      "Mauritania",
+      "Sahrawi Republic"
+    ],
+    "flag": "MRU_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 87,
+    "currency": "Mauritian Rupee",
+    "symbol": "Re or Rs (pl.)",
+    "isoCode": "MUR",
+    "countries": [
+      "Mauritius"
+    ],
+    "flag": "MUR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 88,
+    "currency": "Mexican Peso",
+    "symbol": "$",
+    "isoCode": "MXN",
+    "countries": [
+      "Mexico"
+    ],
+    "flag": "MXN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 89,
+    "currency": "Moldovan Leu",
+    "symbol": "Leu or Lei (pl.)",
+    "isoCode": "MDL",
+    "countries": [
+      "Moldova"
+    ],
+    "flag": "MDL_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 90,
+    "currency": "Mongolian Tögrög",
+    "symbol": "₮",
+    "isoCode": "MNT",
+    "countries": [
+      "Mongolia"
+    ],
+    "flag": "MNT_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 91,
+    "currency": "Moroccan Dirham",
+    "symbol": "DH",
+    "isoCode": "MAD",
+    "countries": [
+      "Morocco",
+      "Sahrawi Republic"
+    ],
+    "flag": "MAD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 92,
+    "currency": "Mozambican Metical",
+    "symbol": "Mt",
+    "isoCode": "MZN",
+    "countries": [
+      "Mozambique"
+    ],
+    "flag": "MZN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 93,
+    "currency": "Namibian Dollar",
+    "symbol": "$",
+    "isoCode": "NAD",
+    "countries": [
+      "Namibia"
+    ],
+    "flag": "NAD_flag",
+    "referenceCurrency": "ZAR",
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 94,
+    "currency": "Nepalese Rupee",
+    "symbol": "Re or Rs (pl.)",
+    "isoCode": "NPR",
+    "countries": [
+      "Nepal"
+    ],
+    "flag": "NPR_flag",
+    "referenceCurrency": "INR",
+    "referencePerFixedRate": 1.6,
+    "notes": null
+  },
+  {
+    "id": 95,
+    "currency": "Netherlands Antillean Guilder",
+    "symbol": "ƒ",
+    "isoCode": "ANG",
+    "countries": [
+      "Curaçao",
+      "Sint Maarten"
+    ],
+    "flag": "ANG_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 1.79,
+    "notes": null
+  },
+  {
+    "id": 96,
+    "currency": "Taiwan Dollar",
+    "symbol": "$",
+    "isoCode": "TWD",
+    "countries": [
+      "Taiwan",
+      "Republic of China"
+    ],
+    "flag": "TWD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 97,
+    "currency": "New Zealand Dollar",
+    "symbol": "$",
+    "isoCode": "NZD",
+    "countries": [
+      "New Zealand",
+      "Cook Islands",
+      "Niue",
+      "Pitcairn Islands"
+    ],
+    "flag": "NZD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 98,
+    "currency": "Nicaraguan Córdoba",
+    "symbol": "C$",
+    "isoCode": "NIO",
+    "countries": [
+      "Nicaragua"
+    ],
+    "flag": "NIO_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 99,
+    "currency": "Nigerian Naira",
+    "symbol": "₦",
+    "isoCode": "NGN",
+    "countries": [
+      "Nigeria"
+    ],
+    "flag": "NGN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 100,
+    "currency": "North Korean Won",
+    "symbol": "₩",
+    "isoCode": "KPW",
+    "countries": [
+      "Korea",
+      "North"
+    ],
+    "flag": "KPW_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 101,
+    "currency": "Norwegian Krone",
+    "symbol": "kr",
+    "isoCode": "NOK",
+    "countries": [
+      "Norway"
+    ],
+    "flag": "NOK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 102,
+    "currency": "Omani Rial",
+    "symbol": "RO",
+    "isoCode": "OMR",
+    "countries": [
+      "Oman"
+    ],
+    "flag": "OMR_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 0.38449,
+    "notes": null
+  },
+  {
+    "id": 103,
+    "currency": "Pakistani Rupee",
+    "symbol": "Re or Rs (pl.)",
+    "isoCode": "PKR",
+    "countries": [
+      "Pakistan"
+    ],
+    "flag": "PKR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 104,
+    "currency": "Panamanian Balboa",
+    "symbol": "B/",
+    "isoCode": "PAB",
+    "countries": [
+      "Panama"
+    ],
+    "flag": "PAB_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixed": 1,
+    "notes": null
+  },
+  {
+    "id": 105,
+    "currency": "Papua New Guinean Kina",
+    "symbol": "K",
+    "isoCode": "PGK",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "flag": "PGK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 106,
+    "currency": "Paraguayan Guaraní",
+    "symbol": "₲",
+    "isoCode": "PYG",
+    "countries": [
+      "Paraguay"
+    ],
+    "flag": "PYG_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 107,
+    "currency": "Peruvian Sol",
+    "symbol": "S/",
+    "isoCode": "PEN",
+    "countries": [
+      "Peru"
+    ],
+    "flag": "PEN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 108,
+    "currency": "Philippine Peso",
+    "symbol": "₱",
+    "isoCode": "PHP",
+    "countries": [
+      "Philippines"
+    ],
+    "flag": "PHP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 109,
+    "currency": "Polish Złoty",
+    "symbol": "zł",
+    "isoCode": "PLN",
+    "countries": [
+      "Poland"
+    ],
+    "flag": "PLN_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 110,
+    "currency": "Qatari Riyal",
+    "symbol": "QR",
+    "isoCode": "QAR",
+    "countries": [
+      "Qatar"
+    ],
+    "flag": "QAR_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 3.64,
+    "notes": null
+  },
+  {
+    "id": 111,
+    "currency": "Romanian Leu",
+    "symbol": "Leu or Lei (pl.)",
+    "isoCode": "RON",
+    "countries": [
+      "Romania"
+    ],
+    "flag": "RON_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 112,
+    "currency": "Russian Rouble",
+    "symbol": "₽",
+    "isoCode": "RUB",
+    "countries": [
+      "Russia",
+      "Abkhazia",
+      "South Ossetia"
+    ],
+    "flag": "RUB_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 113,
+    "currency": "Rwandan Franc",
+    "symbol": "Fr",
+    "isoCode": "RWF",
+    "countries": [
+      "Rwanda"
+    ],
+    "flag": "RWF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 114,
+    "currency": "Saint Helena Pound",
+    "symbol": "£",
+    "isoCode": "SHP",
+    "countries": [
+      "Saint Helena",
+      "Ascension Island"
+    ],
+    "flag": "SHP_flag",
+    "referenceCurrency": "GBP",
+    "referencePerFixedRate": 1,
+    "notes": "Sterling"
+  },
+  {
+    "id": 115,
+    "currency": "Samoan Tālā",
+    "symbol": "$",
+    "isoCode": "WST",
+    "countries": [
+      "Samoa"
+    ],
+    "flag": "WST_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 116,
+    "currency": "São Tomé And Príncipe Dobra",
+    "symbol": "Db",
+    "isoCode": "STN",
+    "countries": [
+      "São Tomé and Príncipe"
+    ],
+    "flag": "STN_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 24.5,
+    "notes": null
+  },
+  {
+    "id": 117,
+    "currency": "Saudi Riyal",
+    "symbol": "Rl or Rls (pl.)",
+    "isoCode": "SAR",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "flag": "SAR_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 3.75,
+    "notes": null
+  },
+  {
+    "id": 118,
+    "currency": "Serbian Dinar",
+    "symbol": "DIN",
+    "isoCode": "RSD",
+    "countries": [
+      "Serbia"
+    ],
+    "flag": "RSD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 119,
+    "currency": "Seychellois Rupee",
+    "symbol": "Re or Rs (pl.)",
+    "isoCode": "SCR",
+    "countries": [
+      "Seychelles"
+    ],
+    "flag": "SCR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 120,
+    "currency": "Sierra Leonean Leone",
+    "symbol": "Le",
+    "isoCode": "SLE",
+    "countries": [
+      "Sierra Leone"
+    ],
+    "flag": "SLE_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 121,
+    "currency": "Singapore Dollar",
+    "symbol": "$",
+    "isoCode": "SGD",
+    "countries": [
+      "Singapore",
+      "Brunei"
+    ],
+    "flag": "SGD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 122,
+    "currency": "Solomon Islands Dollar",
+    "symbol": "$",
+    "isoCode": "SBD",
+    "countries": [
+      "Solomon Islands"
+    ],
+    "flag": "SBD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 123,
+    "currency": "Somali Shilling",
+    "symbol": "Sh or Shs (pl.)",
+    "isoCode": "SOS",
+    "countries": [
+      "Somalia"
+    ],
+    "flag": "SOS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 124,
+    "currency": "South African Rand",
+    "symbol": "R",
+    "isoCode": "ZAR",
+    "countries": [
+      "South Africa",
+      "Eswatini",
+      "Lesotho",
+      "Namibia"
+    ],
+    "flag": "ZAR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 125,
+    "currency": "South Korean Won",
+    "symbol": "₩",
+    "isoCode": "KRW",
+    "countries": [
+      "Korea, South"
+    ],
+    "flag": "KRW_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 126,
+    "currency": "South Sudanese Pound",
+    "symbol": "(none)",
+    "isoCode": "SSP",
+    "countries": [
+      "South Sudan"
+    ],
+    "flag": "SSP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Sterling"
+  },
+  {
+    "id": 127,
+    "currency": "Sri Lankan Rupee",
+    "symbol": "Re or Rs (pl.)",
+    "isoCode": "LKR",
+    "countries": [
+      "Sri Lanka"
+    ],
+    "flag": "LKR_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 128,
+    "currency": "Sudanese Pound",
+    "symbol": "LS",
+    "isoCode": "SDG",
+    "countries": [
+      "Sudan"
+    ],
+    "flag": "SDG_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Sterling"
+  },
+  {
+    "id": 129,
+    "currency": "Surinamese Dollar",
+    "symbol": "$",
+    "isoCode": "SRD",
+    "countries": [
+      "Suriname"
+    ],
+    "flag": "SRD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 130,
+    "currency": "Swazi Lilangeni",
+    "symbol": "L or E (pl.)",
+    "isoCode": "SZL",
+    "countries": [
+      "Eswatini"
+    ],
+    "flag": "SZL_flag",
+    "referenceCurrency": "ZAR",
+    "referencePerFixedRate": 100000,
+    "notes": null
+  },
+  {
+    "id": 131,
+    "currency": "Swedish Krona",
+    "symbol": "kr",
+    "isoCode": "SEK",
+    "countries": [
+      "Sweden"
+    ],
+    "flag": "SEK_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 132,
+    "currency": "Swiss Franc",
+    "symbol": "Fr",
+    "isoCode": "CHF",
+    "countries": [
+      "Switzerland",
+      "Liechtenstein"
+    ],
+    "flag": "CHF_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 133,
+    "currency": "Syrian Pound",
+    "symbol": "LS",
+    "isoCode": "SYP",
+    "countries": [
+      "Syria"
+    ],
+    "flag": "SYP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": "Sterling"
+  },
+  {
+    "id": 134,
+    "currency": "Tajikistani Somoni",
+    "symbol": "SM",
+    "isoCode": "TJS",
+    "countries": [
+      "Tajikistan"
+    ],
+    "flag": "TJS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 135,
+    "currency": "Tanzanian Shilling",
+    "symbol": "Sh or Shs (pl.)",
+    "isoCode": "TZS",
+    "countries": [
+      "Tanzania"
+    ],
+    "flag": "TZS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 136,
+    "currency": "Thai Baht",
+    "symbol": "฿",
+    "isoCode": "THB",
+    "countries": [
+      "Thailand"
+    ],
+    "flag": "THB_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 137,
+    "currency": "Tongan Paʻanga",
+    "symbol": "T$",
+    "isoCode": "TOP",
+    "countries": [
+      "Tonga"
+    ],
+    "flag": "TOP_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": 1,
+    "notes": null
+  },
+  {
+    "id": 138,
+    "currency": "Transnistrian Ruble",
+    "symbol": "р",
+    "isoCode": null,
+    "countries": [
+      "Transnistria"
+    ],
+    "flag": "Transnistria_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 139,
+    "currency": "Trinidad And Tobago Dollar",
+    "symbol": "$",
+    "isoCode": "TTD",
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "flag": "TTD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 140,
+    "currency": "Tunisian Dinar",
+    "symbol": "DT",
+    "isoCode": "TND",
+    "countries": [
+      "Tunisia"
+    ],
+    "flag": "TND_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 141,
+    "currency": "Turkish Lira",
+    "symbol": "₺",
+    "isoCode": "TRY",
+    "countries": [
+      "Turkey",
+      "Northern Cyprus"
+    ],
+    "flag": "TRY_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 142,
+    "currency": "Turkmenistani Manat",
+    "symbol": "m",
+    "isoCode": "TMT",
+    "countries": [
+      "Turkmenistan"
+    ],
+    "flag": "TMT_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 143,
+    "currency": "Ugandan Shilling",
+    "symbol": "Sh or Shs (pl.)",
+    "isoCode": "UGX",
+    "countries": [
+      "Uganda"
+    ],
+    "flag": "UGX_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 144,
+    "currency": "Ukrainian Hryvnia",
+    "symbol": "₴",
+    "isoCode": "UAH",
+    "countries": [
+      "Ukraine"
+    ],
+    "flag": "UAH_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 145,
+    "currency": "United Arab Emirates Dirham",
+    "symbol": "Dh or Dhs (pl.)",
+    "isoCode": "AED",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "flag": "AED_flag",
+    "referenceCurrency": "USD",
+    "referencePerFixedRate": 3.6725,
+    "notes": "UAE Dirham"
+  },
+  {
+    "id": 146,
+    "currency": "United States Dollar",
+    "symbol": "$",
+    "isoCode": "USD",
+    "countries": [
+      "United States",
+      "Bonaire",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "East Timor",
+      "Ecuador",
+      "El Salvador",
+      "Marshall Islands",
+      "Micronesia",
+      "Palau",
+      "Panama",
+      "Saba",
+      "Sint Eustatius",
+      "Turks and Caicos Islands"
+    ],
+    "flag": "USD_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 147,
+    "currency": "Uruguayan Peso",
+    "symbol": "$",
+    "isoCode": "UYU",
+    "countries": [
+      "Uruguay"
+    ],
+    "flag": "UYU_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 148,
+    "currency": "Uzbekistani Som",
+    "symbol": "soum",
+    "isoCode": "UZS",
+    "countries": [
+      "Uzbekistan"
+    ],
+    "flag": "UZS_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": "Uzbekistani Sum"
+  },
+  {
+    "id": 149,
+    "currency": "Vanuatu Vatu",
+    "symbol": "VT",
+    "isoCode": "VUV",
+    "countries": [
+      "Vanuatu"
+    ],
+    "flag": "VUV_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 150,
+    "currency": "Venezuelan Bolívar",
+    "symbol": "Bs.S",
+    "isoCode": "VES",
+    "countries": [
+      "Venezuela"
+    ],
+    "flag": "VES_flag",
+    "referenceCurrency": "Venezuelan Sovereign Bolívar",
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 151,
+    "currency": "Vietnamese đồng",
+    "symbol": "₫",
+    "isoCode": "VND",
+    "countries": [
+      "Vietnam"
+    ],
+    "flag": "VND_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 152,
+    "currency": "West African CFA Franc",
+    "symbol": "Fr",
+    "isoCode": "XOF",
+    "countries": [
+      "Benin",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Guinea-Bissau",
+      "Mali",
+      "Niger",
+      "Senegal",
+      "Togo"
+    ],
+    "flag": "XOF_flag",
+    "referenceCurrency": "EUR",
+    "referencePerFixedRate": 655.957,
+    "notes": "Ivory Coast"
+  },
+  {
+    "id": 153,
+    "currency": "Yemeni Rial",
+    "symbol": "Rl or Rls (pl.)",
+    "isoCode": "YER",
+    "countries": [
+      "Yemen"
+    ],
+    "flag": "YER_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 154,
+    "currency": "Zambian Kwacha",
+    "symbol": "K",
+    "isoCode": "ZMW",
+    "countries": [
+      "Zambia"
+    ],
+    "flag": "ZMW_flag",
+    "referenceCurrency": null,
+    "referencePerFixedRate": null,
+    "notes": null
+  },
+  {
+    "id": 155,
+    "currency": "Zimbabwean Dollar",
+    "symbol": "Z$",
+    "isoCode": "ZWL",
+    "countries": [
+      "Zimbabwe"
+    ],
+    "flag": "ZWL_flag",
+    "referenceCurrency": "RTGS dollar",
+    "referencePerFixedRate": null,
+    "notes": null
+  }
+]
