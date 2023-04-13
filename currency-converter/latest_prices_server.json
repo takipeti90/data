@@ -1,6 +1,6 @@
 {
     "success": true,
-    "error_code": 0,
+    "errorCode": 0,
     "base": "USD",
     "dateTime": "2023-04-06 09:03:49 UTC",
     "timestamp": 1680771829,
