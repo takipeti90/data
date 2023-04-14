@@ -1990,20 +1990,6 @@
     "notes": null
   },
   {
-    "id": 138,
-    "rank": 0,
-    "currency": "Transnistrian Ruble",
-    "symbol": "р",
-    "isoCode": "PRB",
-    "countries": [
-      "Transnistria"
-    ],
-    "flag": "prb",
-    "referenceCurrency": null,
-    "referencePerFixedRate": null,
-    "notes": null
-  },
-  {
     "id": 139,
     "rank": 0,
     "currency": "Trinidad And Tobago Dollar",
