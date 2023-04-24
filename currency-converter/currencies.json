@@ -1501,7 +1501,7 @@
     ],
     "flag": "pa",
     "referenceCurrency": "USD",
-    "referencePerFixed": 1,
+    "referencePerFixedRate": 1,
     "notes": null
   },
   {
